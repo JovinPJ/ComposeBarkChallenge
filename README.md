@@ -1,11 +1,10 @@
-# Put title of your app here
-
+# Bark
 
 ![Workflow result](https://github.com/JovinPJ/ComposeBarkChallenge/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
-<!-- This app lists a set of dog breeds and their brief information in detail. -->
+This app lists a set of dog breeds and their brief information in detail.
 
 
 ## :bulb: Motivation and Context
