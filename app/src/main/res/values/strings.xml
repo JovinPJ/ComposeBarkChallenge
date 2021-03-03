@@ -10,4 +10,86 @@
       the License.
       -->
     <string name="app_name">AndroidDevChallenge</string>
+    <string-array name="breed">
+        <item>Affenpinscher</item>
+        <item>Beagle</item>
+        <item>Boxer</item>
+        <item>Bullador</item>
+        <item>Bulldog</item>
+        <item>Cavapoo</item>
+        <item>Dachshund</item>
+        <item>Dalmatian</item>
+        <item>Doberman Pinscher</item>
+
+    </string-array>
+
+    <string-array name="desc">
+        <item>The Affenpinscher, also known as the \"Monkey Dog\" (\"affen\" means \"ape/monkey\" in German, and \"pinscher\"
+            means \"terrier\"), is small but feisty, full of spunk and energy.
+            This mustachioed little devil is descended from the numerous small
+            terriers that populated 17th and 18th century stables and shops
+            throughout Europe, ridding them of rats and mice.</item>
+
+        <item>Small, compact, and hardy, Beagles are active companions for kids and adults alike.
+            Canines of this dog breed are merry and fun loving, but being hounds,
+            they can also be stubborn and require patient, creative training techniques.
+            Their noses guide them through life, and they\’re never happier than when following an interesting scent.
+            Beagles originally were bred as scenthounds to track small game, mostly rabbits and hare.
+            They\’re still used for this purpose in many countries today,
+            including the United States. But you\’ll find plenty of these pups
+            living as companion dogs and loving, furry family members.</item>
+        <item>Boxer dogs were originally bred to be medium-size guard dogs.
+            Today, although they are a part of the AKC\’s Working Group,
+            Boxers mostly find homes as loving family companions. That said,
+            they still retain their high energy levels and need plenty of exercise.
+            Square-jawed and muscular, this breed is the George
+            Clooney of the dog world–a looker with a sense of humor
+            and an underlying sweetness. They adore their families and will
+            also appreciate consistent training that doesn\’t rely on harsh reprimands.</item>
+        <item>
+            The Bullador is a mixed breed dog–a cross between the Labrador and
+            English Bulldog breeds. These pups fall into the medium-to-large size range.
+            Active and loyal, Bulladors inherited some of the best traits from both of their parents.
+            Bulladors should not be confused with Labrabulls–Labrador
+            Retriever and Pit Bull mixes. Despite their unfortunate status as a
+            designer breed, you can find these mixed pups in shelters and breed
+            specific rescues, so remember to adopt!
+        </item>
+        <item>The Bulldog was originally used to drive cattle to market and to compete in a bloody sport called bullbaiting.
+            Today, they\’re gentle companions who love kids.
+            Even though these are purebred dogs, you may find them in the care of shelters or
+            rescue groups. Remember to adopt!</item>
+        <item>The Cavapoo is a mixed breed dog — a cross between the Cavalier King Charles Spaniel and Poodle dog breeds.
+            Outgoing, playful, and curious, these pups inherit some of the best traits from both of their parents.
+            Cavapoos go by several names, including Cavadoodle and Cavoodle.
+            Despite their unfortunate status as a designer breed, you can find these
+            mixed breed dogs in shelters and rescues, so remember to adopt!</item>
+        <item>Dachshunds are scent hound dogs bred to hunt badgers and other tunneling animals, rabbits, and foxes.
+            Hunters even used packs of Dachshunds to trail wild boar.
+            Today their versatility makes them excellent family companions, show dogs, and small-game hunters.
+
+But don\’t let this pup fool you. Dogs of this breed might be,
+            as legendary literary critic and humorous journalist
+            H. L. Mencken said, \“half a dog high and a dog and a half long,\”
+            but this small, drop-eared dog is tough enough to take on a badger.
+            In fact, that\’s how they got their name (Dachs meaning badger; hund meaning dog).
+
+</item>
+        <item>Best known as the star of Disney\’s 101 Dalmatians,
+            this sleek and athletic Dalmatian dog breed has a history
+            that goes back several hundred years. They started out as a
+            coach dog but also served in many other capacities, including hunter, firehouse dog, and circus performer.
+            Even though these are purebred dogs,
+            you may find them in the care of shelters
+            or rescue groups. Remember to adopt! Don\’t shop if you want to bring a dog home.</item>
+        <item>Doberman Pinschers originated in Germany during the late 19th century,
+            mostly bred as guard dogs. Their exact ancestry is unknown,
+            but they\’re believed to be a mixture of many dog breeds, including
+            the Rottweiler, Black and Tan Terrier, and German Pinscher.
+            With their sleek coat, athletic build, and regal appearance,
+            this pup looks like an aristocrat. They\’re highly energetic
+            and smart dogs who perform well in police and military work,
+            canine sports, and as family guardians and companions.</item>
+
+    </string-array>
 </resources>
